@@ -1,8 +1,17 @@
-***Semana Web Full Stack***
 
-**Aula 1**
+# Semana Web Full Stack
 
-*API*
+### Aula 1
+
+### API
+**Tecnologias**
+ - [x] TypeScript
+ - [x] ORM - Sequelize
+ - [x] Database - _MariaDB_
+
+### Frontend
+ - [] ReactJS
+
 
 __Projeto Pitu__
 
