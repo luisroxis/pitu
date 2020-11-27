@@ -1,4 +1,5 @@
 import {Sequelize} from 'sequelize'
+import * as Env from 'dotenv'
 
 const sequelize = new Sequelize({
   dialect: 'mariadb',
